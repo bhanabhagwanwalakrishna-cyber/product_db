@@ -3,7 +3,11 @@
 
 ## Project Overview
 
-This project is a Product Database Management System developed using MySQL. It is designed to manage products, categories, customers, orders, payments, suppliers, inventory, and returns efficiently.
+The Product Database Management System is a SQL-based project developed using MySQL Workbench to manage and organize business data efficiently. The database stores information related to products, categories, customers, suppliers, employees, inventory, orders, payments, and returns in a structured format.
+
+This project demonstrates the use of relational database concepts such as primary keys, foreign keys, data relationships, and data management. Various SQL concepts including Joins, Subqueries, CTEs, Window Functions, Views, and Triggers have been implemented to perform data analysis and automate database operations.
+
+The main goal of this project is to provide a practical understanding of database design and SQL query development. It helps in learning how businesses manage large amounts of data while ensuring accuracy, consistency, and efficient data retrieval.
 
 ## Database Name
 
